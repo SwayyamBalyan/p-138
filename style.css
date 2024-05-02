@@ -1,0 +1,23 @@
+.heading 
+{
+    width: 100%;
+}
+#restart
+{
+    font-size: 20px;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 10px;
+}
+.modal-dialog
+{
+    width: 70%;
+}
+.heading button
+
+{
+    float: right;
+    border: 2px solid white;
+}
